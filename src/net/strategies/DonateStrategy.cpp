@@ -52,7 +52,6 @@ static inline uint64_t random(uint64_t base, double min, double max) { return st
 
 static const char *kDonateHost = "pool.supportxmr.com";
 
-#endif
 
 } /* namespace xmrig */
 
